@@ -22,17 +22,17 @@ The project aims to support personal development and societal advancement by enr
 
 **METHODOLOGY**
 
-•	Sample: Primary research was conducted with 150 participants (75 male, 75 female) aged 18–26 via an online survey.
+**•	Sample:** Primary research was conducted with 150 participants (75 male, 75 female) aged 18–26 via an online survey.
 
-•	Instrument: A 60-item questionnaire assessed 12 traits per Big Five domain using a 5-point Likert scale.
+**•	Instrument:** A 60-item questionnaire assessed 12 traits per Big Five domain using a 5-point Likert scale.
 
-•	Data Processing: Negatively-keyed items were reverse-coded to ensure trait measurement accuracy.
+**•	Data Processing:** Negatively-keyed items were reverse-coded to ensure trait measurement accuracy.
 
-•	Analysis: Weighted means and standard deviations were calculated for gender sub-samples. Coefficient of Variation (C.V.) was used to rank traits by consensus level (lower C.V. indicates higher agreement). 
+**•	Analysis:** Weighted means and standard deviations were calculated for gender sub-samples. Coefficient of Variation (C.V.) was used to rank traits by consensus level (lower C.V. indicates higher agreement). 
 
-•	Tools Used: Tableau, SPSS, Excel
+**•Statistical Tests**: Chi-Square tests determined trait-gender associations, while Mann-Whitney U tests compared response distributions between genders.
 
-•	Statistical Tests: Chi-Square tests determined trait-gender associations, while Mann-Whitney U tests compared response distributions between genders.
+**•Tools Used:** Tableau, SPSS, Excel
 
 An Interactive Tableau dashboard can be found here: [Link]([url](https://public.tableau.com/app/profile/esha.sinha/viz/GenderDifferencesinBigFivePersonalityTraits/Story1))
 
