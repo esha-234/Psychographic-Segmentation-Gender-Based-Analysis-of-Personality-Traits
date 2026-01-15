@@ -20,6 +20,7 @@ This project explores these themes by analyzing gender-based responses across th
 
 The project aims to support personal development and societal advancement by enriching our understanding of human personality. By examining these dimensions, the study seeks to determine if one gender tends to score higher or lower on specific traits. 
 
+
 **METHODOLOGY**
 
 **•	Sample:** Primary research was conducted with 150 participants (75 male, 75 female) aged 18–26 via an online survey.
@@ -34,9 +35,10 @@ The project aims to support personal development and societal advancement by enr
 
 **•Tools Used:** Tableau, SPSS, Excel
 
-An Interactive Tableau dashboard can be found here: [Link]([url](https://public.tableau.com/app/profile/esha.sinha/viz/GenderDifferencesinBigFivePersonalityTraits/Story1))
+An Interactive Tableau dashboard can be found here: [Link]([[url](https://public.tableau.com/app/profile/esha.sinha/viz/GenderDifferencesinBigFivePersonalityTraits/Story1)])
 
 The questionnaire can be found here: [Link]([url](https://drive.google.com/file/d/1UrWZD9X79aErmtyZTtCquNakNe2St6o8/view))
+
 
 **KEY INSIGHTS**
 
