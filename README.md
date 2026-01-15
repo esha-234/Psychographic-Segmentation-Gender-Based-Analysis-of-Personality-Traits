@@ -1,6 +1,6 @@
 # Psychographic-Segmentation-Gender-Based-Analysis-of-Personality-Traits
  
-**Project Background**
+**PROJECT BACKGROUND**
 
 The question of whether personality differences between men and women are innate and biological or shaped by societal and cultural influences remains a central topic of debate in psychology. Personality research is essential for uncovered these psychological disparities, providing insights into how societal norms influence attitudes and behaviours.
 
@@ -20,7 +20,7 @@ This project explores these themes by analyzing gender-based responses across th
 
 The project aims to support personal development and societal advancement by enriching our understanding of human personality. By examining these dimensions, the study seeks to determine if one gender tends to score higher or lower on specific traits. 
 
-**Methodology**
+**METHODOLOGY**
 
 •	Sample: Primary research was conducted with 150 participants (75 male, 75 female) aged 18–26 via an online survey.
 
@@ -38,7 +38,7 @@ An Interactive Tableau dashboard can be found here: [Link]([url](https://public.
 
 The questionnaire can be found here: [Link]([url](https://drive.google.com/file/d/1UrWZD9X79aErmtyZTtCquNakNe2St6o8/view))
 
-**Key Insights**
+**KEY INSIGHTS**
 
 Radar Chart & Survey Distribution:
 
