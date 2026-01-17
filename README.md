@@ -20,6 +20,7 @@ This project explores these themes by analyzing gender-based responses across th
 
 The project aims to support personal development and societal advancement by enriching our understanding of human personality. By examining these dimensions, the study seeks to determine if one gender tends to score higher or lower on specific traits. 
 
+.
 
 **METHODOLOGY**
 
@@ -39,6 +40,7 @@ An Interactive Tableau dashboard can be found here: [Link](https://public.tablea
 
 The questionnaire can be found here: [Link](https://drive.google.com/file/d/1UrWZD9X79aErmtyZTtCquNakNe2St6o8/view)
 
+.
 
 **KEY INSIGHTS**
 
@@ -66,10 +68,11 @@ Extraversion showed a much stronger relationship with gender than any other Big 
 
 •	**Situational Socializing:** Both groups showed a high number of neutral responses regarding being "shy around people," suggesting that social confidence in this 18–26 age group is often situational rather than absolute
 
+<img width="659" height="222" alt="image" src="https://github.com/user-attachments/assets/3063ea96-71d2-4959-a688-1c3c05d9d22b" />
+
+.
+
 **2. Agreeableness**
-
-<img width="880" height="300" alt="2" src="https://github.com/user-attachments/assets/1327e7a6-76e1-4957-abc5-d4253429fe52" />
-
 
 •	**Universal Respect:** The statement "I treat everyone with kindness and respect" received the highest positive response from both groups (60 males and 58 females).
 
