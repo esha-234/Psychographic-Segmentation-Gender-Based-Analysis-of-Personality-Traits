@@ -94,7 +94,7 @@ _Extraversion showed a much stronger relationship with gender than any other Big
 
 •	**Situational Logic:** This suggests that while both groups value the concept of kindness, they are more selective and hesitant when helping requires a personal sacrifice of time.
 
-<img width="539" height="178" alt="image" src="https://github.com/user-attachments/assets/3326e8f8-5767-42c9-8c7b-1bb3f166fd24" />
+<img width="542" height="457" alt="image" src="https://github.com/user-attachments/assets/e45762df-9d85-431e-aafe-a50f424a795e" />
 
 .
 
@@ -116,7 +116,7 @@ ii.	**Preparation:** While males leaned more towards being "always prepared", bo
 
 iii. **Task Initiation:** Females showed substantial leaned towards the tendency to "get chores done right away."
 
-<img width="560" height="184" alt="image" src="https://github.com/user-attachments/assets/a732715e-7a5b-4262-bd31-25996e597f6e" />
+<img width="563" height="456" alt="image" src="https://github.com/user-attachments/assets/f314d0c7-11e3-4afc-95ad-9c10897ec9cb" />
 
 .
 
