@@ -95,7 +95,31 @@ _Extraversion showed a much stronger relationship with gender than any other Big
 •	**Situational Logic:** This suggests that while both groups value the concept of kindness, they are more selective and hesitant when helping requires a personal sacrifice of time.
 
 <img width="539" height="178" alt="image" src="https://github.com/user-attachments/assets/3326e8f8-5767-42c9-8c7b-1bb3f166fd24" />
+
 .
 
+**3. Conscientiousness**
+
+<img width="880" height="300" alt="Gender" src="https://github.com/user-attachments/assets/7904567d-9b6c-4412-ba85-b2ecec600397" />
+
+•	**Radar Chart Alignment:** This dimension shows the most precise overlap on the radar chart, indicating that the "average" conscientious profile of a male respondent is nearly identical to that of a female respondent.
+
+•	**Chi-Square Stability:** The Chi-Square test failed to find a significant association for 10 out of 11 traits. This means the distribution of answers follows the same pattern for both men and women.
+
+•	**The Single Outlier:** The only trait with a significant pattern association was "I often get lazy (reverse coded)", suggesting that while productivity is viewed similarly, the perception of "laziness" may carry different cultural or personal connotations for each gender.
+
+•	**Mann-Whitney U test:** While the patterns are similar, identified three specific areas where one gender tends to score higher:
+
+i.	**Persistence:** While males leaned more towards this trait, persistence remained the least agreed-upon trait for females (Rank 12) and among the lowest for males (Rank 9). Such low consensus rankings across both genders indicate significantly varying attitudes toward persistent behaviour within the sample.
+
+ii.	**Preparation:** While males leaned more towards being "always prepared", both groups have ranked low in this trait, indicating varying opinions between the respondents in both groups. 
+
+iii. **Task Initiation:** Females showed substantial leaned towards the tendency to "get chores done right away."
+
+<img width="560" height="184" alt="image" src="https://github.com/user-attachments/assets/a732715e-7a5b-4262-bd31-25996e597f6e" />
+
+.
+
+**4. Neuroticism**
 
 
