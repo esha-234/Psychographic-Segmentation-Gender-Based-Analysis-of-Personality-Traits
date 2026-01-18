@@ -122,4 +122,26 @@ iii. **Task Initiation:** Females showed substantial leaned towards the tendency
 
 **4. Neuroticism**
 
+<img width="880" height="300" alt="Gender (1)" src="https://github.com/user-attachments/assets/515de371-0c1c-44a4-856f-01d852ecc3e8" />
+
+•	**Chi-Square Results:** The test rejected the null hypothesis for 10 out of 11 statements. It found a significant association between gender and the statement "I am emotionally unstable". Conversely, the Mann-Whitney U test found no significant difference in the median score for that same item. This suggests that while the pattern of how genders distribute their answers on stability is distinct, the average level of stability they report is statistically the same.
+
+•	**Mann-Whitney U Results:** The test identified 3 specific areas where median responses differed significantly:
+
+**i.	Nervousness:** Both genders showed high and identical agreement regarding anxiety, with "I get nervous easily".
+
+**ii.	**Mood Instability:**** Females reported higher mood fluctuations, with 44 females agreeing their "mood changes easily" compared to 31 males.
+
+**iii.	**Stress Management:**** Females leaned more towards "stressed rather than relaxed".
+
+•	**Self-Image and Worry:** Both groups expressed high levels of self-criticism; 35 females and 33 males agreed they have many things they "don't like" about themselves. Additionally, 40 males agreed/strongly agreed they "worry I am not good enough," showing a slightly higher concentration of self-doubt than the 38 females in those categories.
+
+<img width="609" height="152" alt="image" src="https://github.com/user-attachments/assets/fd3be6c7-2852-4cf1-abef-86327d9af4b3" />
+
+.
+
+**5. Openness**
+
+<img width="880" height="300" alt="Gender (2)" src="https://github.com/user-attachments/assets/771e3d5c-d16e-486d-9759-ae8da6bd2ec0" />
+
 
