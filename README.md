@@ -36,9 +36,13 @@ The project aims to support personal development and societal advancement by enr
 
 **•Tools Used:** Tableau, SPSS, Excel
 
-The interactive Tableau dashboard can be found here: [Link](https://public.tableau.com/app/profile/esha.sinha/viz/GenderDifferencesinBigFivePersonalityTraits/Story1)
-
 The questionnaire can be found here: [Link](https://drive.google.com/file/d/1UrWZD9X79aErmtyZTtCquNakNe2St6o8/view)
+
+.
+
+**DASHBOARD**
+
+The interactive Tableau dashboard can be found here: [Link](https://public.tableau.com/app/profile/esha.sinha/viz/GenderDifferencesinBigFivePersonalityTraits/Story1)
 
 .
 
@@ -149,4 +153,28 @@ iii. **Task Initiation:** Females showed substantial leaned towards the tendency
 •	**Radar Chart Alignment:** Minor leanings were noted, with males scoring marginally higher in Openness. 
 
 <img width="562" height="454" alt="image" src="https://github.com/user-attachments/assets/9ca47a52-b4de-4ac8-9257-6c2d19af1f26" />
+
+.
+
+**Conclusion:** While the Radar Chart reveals a high degree of structural similarity—suggesting a shared psychological foundation, statistical analysis (Chi-Square and Mann-Whitney U) identifies specific friction points. These findings indicate that gender functions as a variable of nuance rather than a defining factor. 
+
+While gender does not dictate the fundamental capacity for a trait, it significantly influences the way individuals report those traits. Ultimately, environmental factors such as age cohort and educational background likely appear to be stronger drivers of personality than gender, confirming that core psychological structures remain largely consistent across the sample.
+
+.
+
+**Recommendations for Organizational Application**
+
+•	**Standardize Subjective Performance Metrics:** Since the study found that cooperation and persistence had the lowest consensus across both groups, organizations should move away from vague labels in performance reviews. Instead, use objective KPIs (e.g., "Number of collaborative projects completed") to avoid gendered interpretations of these traits.
+
+•	**Bridge the Creative Gap:** The research identified a gap in self-perceived Inventiveness despite equal interest in ideas. Professional development programs should focus on creative confidence and self-promotion training to ensure that innovative potential is recognized regardless of gender.
+
+.
+
+**Future Work**
+
+• **Expand Demographic Diversity:** The current sample focuses on the 18–26 age cohort. Future studies should include older demographics to determine if the structural similarity & differences found in this group persists as individuals progress through different life stages.
+
+• **Cultural and Geographic Context:** Personality expression is heavily influenced by cultural norms. Expanding the study to different geographic regions would clarify whether the high structural similarity found in this project is a universal human trait or specific to the local culture of the participants.
+
+• **Expansion of Variables:** While this project focused on gender, future project should adopt a multivariate approach. By factoring in socioeconomic status, geographic location, and professional experience, researchers can understand the influences of these factors and the extent to which gender versus life factors shapes the Big Five dimensions.
 
