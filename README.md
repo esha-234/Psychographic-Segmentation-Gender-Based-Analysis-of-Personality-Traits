@@ -162,7 +162,7 @@ While gender does not dictate the fundamental capacity for a trait, it significa
 
 .
 
-**Recommendations for Organizational Application**
+**RECOMMENDATIONS FOR ORGANIZATIONAL APPLICATION**
 
 •	**Standardize Subjective Performance Metrics:** Since the study found that cooperation and persistence had the lowest consensus across both groups, organizations should move away from vague labels in performance reviews. Instead, use objective KPIs (e.g., "Number of collaborative projects completed") to avoid gendered interpretations of these traits.
 
@@ -170,7 +170,7 @@ While gender does not dictate the fundamental capacity for a trait, it significa
 
 .
 
-**Future Work**
+**FUTURE WORK**
 
 • **Expand Demographic Diversity:** The current sample focuses on the 18–26 age cohort. Future studies should include older demographics to determine if the structural similarity & differences found in this group persists as individuals progress through different life stages.
 
