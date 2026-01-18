@@ -36,7 +36,7 @@ The project aims to support personal development and societal advancement by enr
 
 **•Tools Used:** Tableau, SPSS, Excel
 
-An interactive Tableau dashboard can be found here: [Link](https://public.tableau.com/app/profile/esha.sinha/viz/GenderDifferencesinBigFivePersonalityTraits/Story1)
+The interactive Tableau dashboard can be found here: [Link](https://public.tableau.com/app/profile/esha.sinha/viz/GenderDifferencesinBigFivePersonalityTraits/Story1)
 
 The questionnaire can be found here: [Link](https://drive.google.com/file/d/1UrWZD9X79aErmtyZTtCquNakNe2St6o8/view)
 
