@@ -16,7 +16,7 @@ This project explores these themes by analyzing gender-based responses across th
 
 •	Neuroticism
 
-•	Openness
+•	Openness to Experience
 
 The project aims to support personal development and societal advancement by enriching our understanding of human personality. By examining these dimensions, the study seeks to determine if one gender tends to score higher or lower on specific traits. 
 
@@ -140,8 +140,14 @@ iii. **Task Initiation:** Females showed substantial leaned towards the tendency
 
 .
 
-**5. Openness**
+**5. Openness to Experience**
 
 <img width="880" height="300" alt="Gender (2)" src="https://github.com/user-attachments/assets/771e3d5c-d16e-486d-9759-ae8da6bd2ec0" />
 
+•	**Divergence:** The Mann-Whitney U test revealed a highly significant difference in Inventiveness and Originality. Males in this sample were substantially more likely to label themselves as "inventive", even though both groups share the same level of interest in the originality.
 
+•	**Philosophical Discussion:** The Chi-Square test showed a significant association in how genders approach philosophical debates. Females showed a more unified interest in intellectual discussions, while males were significantly more divided on this trait, indicating a wider spectrum of intellectual engagement among men.
+
+•	**Radar Chart Alignment:** Minor leanings were noted, with males scoring marginally higher in Openness. 
+
+<img width="426" height="402" alt="image" src="https://github.com/user-attachments/assets/da2a56fb-ca1d-4a5c-a72a-aec39685ba0d" />
