@@ -36,7 +36,7 @@ The project aims to support personal development and societal advancement by enr
 
 **•Tools Used:** Tableau, SPSS, Excel
 
-An Interactive Tableau dashboard can be found here: [Link](https://public.tableau.com/app/profile/esha.sinha/viz/GenderDifferencesinBigFivePersonalityTraits/Story1)
+An interactive Tableau dashboard can be found here: [Link](https://public.tableau.com/app/profile/esha.sinha/viz/GenderDifferencesinBigFivePersonalityTraits/Story1)
 
 The questionnaire can be found here: [Link](https://drive.google.com/file/d/1UrWZD9X79aErmtyZTtCquNakNe2St6o8/view)
 
@@ -50,11 +50,13 @@ The questionnaire can be found here: [Link](https://drive.google.com/file/d/1UrW
 
 
 
-Extraversion showed a much stronger relationship with gender than any other Big Five dimension.
+_Extraversion showed a much stronger relationship with gender than any other Big Five dimension._
 
 •	**Chi-Square Results:** The test rejected the null hypothesis for 6 out of 11 statements, indicating that gender is a significant factor in how respondents express extraverted traits.
 
 •	**Mann-Whitney U Results:** This test was even more sensitive, identifying significant median shifts in 8 out of 11 statements, indicating that one gender tends to score higher than the other.
+
+•	**Macro Stability:** The Radar Chart confirms that females leaned slightly higher in Extraversion.
 
 •	**Key Divergences:** Gender significantly influences social vigor, dominance, social comfort, and enthusiasm.
 
@@ -68,11 +70,13 @@ Extraversion showed a much stronger relationship with gender than any other Big 
 
 •	**Situational Socializing:** Both groups showed a high number of neutral responses regarding being "shy around people," suggesting that social confidence in this 18–26 age group is often situational rather than absolute
 
-<img width="659" height="222" alt="image" src="https://github.com/user-attachments/assets/3063ea96-71d2-4959-a688-1c3c05d9d22b" />
+<img width="549" height="179" alt="image" src="https://github.com/user-attachments/assets/c7e1ba5f-e373-42bb-9ce2-c1835463a344" />
 
 .
 
 **2. Agreeableness**
+
+<img width="880" height="300" alt="2" src="https://github.com/user-attachments/assets/930268a1-ad78-4c6b-8650-c61332f02c0b" />
 
 •	**Universal Respect:** The statement "I treat everyone with kindness and respect" received the highest positive response from both groups (60 males and 58 females).
 
@@ -84,11 +88,14 @@ Extraversion showed a much stronger relationship with gender than any other Big 
 
 •	**Acceptance Patterns:** While the median level of acceptance is the same, the Chi-Square test found a significant association for "I accept people the way they are", meaning males and females follow different internal patterns when choosing their response.
 
-•	**Conflict Tendencies:** Females reported being slightly less prone to conflict and arguments compared to their male counterparts.
+•	**Conflict Tendencies:** Though both genders have claimed to be not argumentative, Females reported being slightly less prone to conflict and arguments compared to their male counterparts.
 
 •	**Selective Sacrifice:** Both genders showed high neutrality toward "I stop what I am doing to help other people".
 
 •	**Situational Logic:** This suggests that while both groups value the concept of kindness, they are more selective and hesitant when helping requires a personal sacrifice of time.
+
+<img width="539" height="178" alt="image" src="https://github.com/user-attachments/assets/3326e8f8-5767-42c9-8c7b-1bb3f166fd24" />
+.
 
 
 
