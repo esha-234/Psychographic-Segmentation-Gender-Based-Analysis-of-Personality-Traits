@@ -48,8 +48,6 @@ The questionnaire can be found here: [Link](https://drive.google.com/file/d/1UrW
 
 <img width="880" height="300" alt="1" src="https://github.com/user-attachments/assets/fb89e3a9-cbf0-4307-bb7f-9a1a9aac4074" />
 
-
-
 _Extraversion showed a much stronger relationship with gender than any other Big Five dimension._
 
 •	**Chi-Square Results:** The test rejected the null hypothesis for 6 out of 11 statements, indicating that gender is a significant factor in how respondents express extraverted traits.
@@ -70,7 +68,7 @@ _Extraversion showed a much stronger relationship with gender than any other Big
 
 •	**Situational Socializing:** Both groups showed a high number of neutral responses regarding being "shy around people," suggesting that social confidence in this 18–26 age group is often situational rather than absolute
 
-<img width="549" height="179" alt="image" src="https://github.com/user-attachments/assets/c7e1ba5f-e373-42bb-9ce2-c1835463a344" />
+<img width="482" height="454" alt="image" src="https://github.com/user-attachments/assets/50420926-46e7-4eae-aacd-754b4bbab1a2" />
 
 .
 
@@ -136,7 +134,7 @@ iii. **Task Initiation:** Females showed substantial leaned towards the tendency
 
 •	**Self-Image and Worry:** Both groups expressed high levels of self-criticism; 35 females and 33 males agreed they have many things they "don't like" about themselves. Additionally, 40 males agreed/strongly agreed they "worry I am not good enough," showing a slightly higher concentration of self-doubt than the 38 females in those categories.
 
-<img width="609" height="152" alt="image" src="https://github.com/user-attachments/assets/fd3be6c7-2852-4cf1-abef-86327d9af4b3" />
+<img width="613" height="456" alt="image" src="https://github.com/user-attachments/assets/276a9938-068b-4803-b555-bcfcfcd676a5" />
 
 .
 
@@ -150,4 +148,5 @@ iii. **Task Initiation:** Females showed substantial leaned towards the tendency
 
 •	**Radar Chart Alignment:** Minor leanings were noted, with males scoring marginally higher in Openness. 
 
-<img width="426" height="402" alt="image" src="https://github.com/user-attachments/assets/da2a56fb-ca1d-4a5c-a72a-aec39685ba0d" />
+<img width="562" height="454" alt="image" src="https://github.com/user-attachments/assets/9ca47a52-b4de-4ac8-9257-6c2d19af1f26" />
+
