@@ -46,6 +46,12 @@ The interactive Tableau dashboard can be found here: [Link](https://public.table
 
 .
 
+**INFOGRAPHIC**
+
+The Infographic can be found here: [Link](https://drive.google.com/file/d/1lrgSZL794JqWVbIlVuFhbRNzCgPuNcmG/view?usp=sharing)
+
+.
+
 **KEY INSIGHTS**
 
 **1. Extraversion: The Most Divergent Dimension**
